@@ -54,3 +54,5 @@ dkms.conf
 # IDEA config file
 .idea/
 cmake-build-debug/
+
+epoll_example
